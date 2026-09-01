@@ -57,7 +57,7 @@ function criarTabuleiro() {
 
   for (let cllinha = 0; cllinha < clmaxTentativas; cllinha++) {
     const clnovaLinha = document.createElement("div");
-    clnovaLinha.classList.add("linha");
+    clnovaLinha.classList.add("linha", "colocarPalavra");
 
 
     for (let clcoluna = 0; clcoluna < 5; clcoluna++) {
