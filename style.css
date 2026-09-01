@@ -318,8 +318,8 @@ body {
   }
 
   .retornar {
-    top: 2px;
-    right: 30px;
+    top: 5px;
+    right: 10px;
     width: 32px;
     height: 32px;
     background-size: 22px 22px;
@@ -334,14 +334,14 @@ body {
     width: 100px;
     max-height: 200px;
     top: 8px;
-    right: 190px;
+    right: 220px;
   }
 
   .painelTentativas {
     width: 100px;
     height: 70px;
     position: absolute;
-    right: 80px;
+    right: 115px;
     top: 40px;
   }
 
@@ -355,7 +355,7 @@ body {
 
   .subTitulo {
     top: 131px;
-    right: -20px;
+    right: 10px;
     font-size: 13px;
     white-space: nowrap;
   }
