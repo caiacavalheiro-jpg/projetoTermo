@@ -338,26 +338,25 @@ body {
   }
 
   .painelTentativas {
-    width: 80px;
+    width: 100px;
     height: 70px;
     position: absolute;
-    right: 100px;
-    top: 50px;
+    right: 80px;
+    top: 40px;
   }
 
   .tituloTentativas {
-    font-size: 10px;
+    font-size: 13px;
   }
 
   .contador {
-    font-size: 20px;
-    line-height: 14px;
+    font-size: 25px;
   }
 
   .subTitulo {
-    top: 133px;
-    right: 47px;
-    font-size: 9px;
+    top: 131px;
+    right: -20px;
+    font-size: 13px;
     white-space: nowrap;
   }
 
