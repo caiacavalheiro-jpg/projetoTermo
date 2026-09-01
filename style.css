@@ -313,8 +313,7 @@ body {
   .painelTopo {
     width: 100vw;
     height: 300px;
-    max-width: 380px;
-    height: 70px;
+    height: 80px;
     padding: 6px 8px;
   }
 
@@ -364,7 +363,7 @@ body {
   }
 
   .painelJogo {
-    height: 390px;
+    height: 450px;
     width: 300px;
     max-width: 340px;
     margin-top: 24px;
@@ -373,14 +372,14 @@ body {
 
   .inputSenha {
     width: 100%;
-    height: 27px;
+    height: 35px;
     margin-bottom: 5px;
     font-size: 10px;
   }
 
   .btnEnviar {
     width: 100%;
-    height: 26px;
+    height: 33px;
     font-size: 9px;
   }
 
@@ -440,8 +439,8 @@ body {
   }
 
   .colocarPalavra .digito {
-    height: 40px;
-    width: 50px;
+    height: 55px;
+    width: 55px;
     border-radius: 10px;
     border: 2px solid #2B4056;
   }
