@@ -334,14 +334,14 @@ body {
     width: 100px;
     max-height: 200px;
     top: 8px;
-    right: 220px;
+    right: 255px;
   }
 
   .painelTentativas {
     width: 100px;
     height: 70px;
     position: absolute;
-    right: 115px;
+    right: 150px;
     top: 40px;
   }
 
@@ -354,8 +354,8 @@ body {
   }
 
   .subTitulo {
-    top: 131px;
-    right: 10px;
+    top: 130px;
+    right: 43px;
     font-size: 13px;
     white-space: nowrap;
   }
